@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/usdot-jpo-sdc/sdc-dot-cvp-dw-metadata.svg?branch=master)](https://travis-ci.org/usdot-jpo-sdc/sdc-dot-cvp-dw-metadata)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=usdot-jpo-sdc-dot-cvp-dw-metadata&metric=alert_status)](https://sonarcloud.io/dashboard?id=usdot-jpo-sdc-dot-cvp-dw-metadata)
+
 # sdc-dot-cvp-dw-metadata
 
 Consists of scripts and applications related to building and maintaining data warehouse metadata and data discovery infrastructure and resources. 
